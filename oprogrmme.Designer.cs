@@ -1,6 +1,6 @@
 ﻿namespace game
 {
-    partial class oprogramme
+    partial class oprogramme 
     {
         /// <summary>
         /// Required designer variable.
