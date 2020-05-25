@@ -1,2 +1,2 @@
 # Snake-Remake
-This is will be the best snake you ever played
+This will be the best snake you ever played
