@@ -49,7 +49,7 @@ namespace game
         private void button1_Click_1(object sender, EventArgs e)
         { 
             Process iStartProcess = new Process(); 
-            iStartProcess.StartInfo.FileName = @"..\..\Snake Remake\Snake Remake.exe";  
+            iStartProcess.StartInfo.FileName = @"..\..\Snake Remake.exe";  
             iStartProcess.Start(); 
             iStartProcess.WaitForExit(120000); 
         }
