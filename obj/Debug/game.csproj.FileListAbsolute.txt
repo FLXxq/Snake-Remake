@@ -1,0 +1,22 @@
+D:\Временные файлы\game\game\bin\Debug\game.exe.config
+D:\Временные файлы\game\game\bin\Debug\game.exe
+D:\Временные файлы\game\game\bin\Debug\game.pdb
+D:\Временные файлы\game\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\Временные файлы\game\game\obj\Debug\game.Form1.resources
+D:\Временные файлы\game\game\obj\Debug\game.Properties.Resources.resources
+D:\Временные файлы\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\Временные файлы\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\Временные файлы\game\game\obj\Debug\game.exe
+D:\Временные файлы\game\game\obj\Debug\game.pdb
+D:\Временные файлы\game\game\obj\Debug\game.oprogramme.resources
+D:\Временные файлы\game\game\obj\Debug\game.Управление.resources
+C:\Users\Computer\source\repos\game\bin\Debug\game.exe.config
+C:\Users\Computer\source\repos\game\bin\Debug\game.exe
+C:\Users\Computer\source\repos\game\bin\Debug\game.pdb
+C:\Users\Computer\source\repos\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\Computer\source\repos\game\obj\Debug\game.Form1.resources
+C:\Users\Computer\source\repos\game\obj\Debug\game.oprogramme.resources
+C:\Users\Computer\source\repos\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Computer\source\repos\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Computer\source\repos\game\obj\Debug\game.exe
+C:\Users\Computer\source\repos\game\obj\Debug\game.pdb
